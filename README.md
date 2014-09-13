@@ -25,7 +25,7 @@ there should be a Download ZIP button below it.
 >6. Make sure to view your directories by typing in **ls** (Double check you have created and uploaded all the files you need)
 
 ## Add to Github
-#### Extra Info you need to add
+
 
 ## Commit
 #### Relevant detailed commit message
